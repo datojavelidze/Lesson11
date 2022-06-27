@@ -1,0 +1,21 @@
+
+@media ( max-width:800px){
+    form{
+        flex-direction: column;
+        height: auto;
+        
+    }
+    textarea{
+        max-width:380px;
+        width: 100%;
+        margin-bottom: 20px;
+        margin-right: 0;
+        height:200px
+    }
+    .brake{
+        display:none
+    }
+    input{
+        margin-bottom: 20px;
+    }
+}
